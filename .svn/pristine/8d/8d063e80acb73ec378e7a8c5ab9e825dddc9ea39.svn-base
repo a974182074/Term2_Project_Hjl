@@ -5,14 +5,12 @@
 			.pptbox{
 				width: 400px;
 				height: 100px;
-				/* height: 430px;
-                width: 1000px; */
 				position: relative;
 				overflow: hidden;
 			}
 			
-			.pptbox .innerwrapper{
-				width: 2400px;/*当增加了li之后，大盒子的宽度也要相应的增加 这里增加了两个li，每个400，所以ul 从原来的1600变成了2400*/
+			.pptbox  .innerwrapper{
+				width:2400px;/*当增加了li之后，大盒子的宽度也要相应的增加 这里增加了两个li，每个400，所以ul 从原来的1600变成了2400*/
 				height: 100px;
 				list-style: none;
 				position: absolute;

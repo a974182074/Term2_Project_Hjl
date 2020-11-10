@@ -60,7 +60,7 @@
                      </div>
             </div>
 
-            <!---------------------------  和banner --------------------------->
+            <!--------------------------- 3.分类导航和banner --------------------------->
             <div class="menu container clearfix">
                 <!-- 左侧导航 -->
                 <div class="sideMenu fl">
@@ -342,8 +342,8 @@
                         </h1>
                         <!-- 导航 -->
                         <ul class="fr">
-                            <li>最新上架</li>
-                            <li class="active">独家畅销</li>
+                            <li class="active">最新上架</li>
+                            <li >独家畅销</li>
                             <li>电子书</li>
                         </ul>
                     </div>
@@ -362,12 +362,12 @@
                                     <li>小说</li>
                                     <li>文学</li>
                                     <li>青春文学</li>
-                                    <li>成功\励志</li>
+                                    <li>成功/励志</li>
                                     <li>管理</li>
                                     <li>历史</li>
                                     <li>哲学/宗教</li>
                                     <li>亲子/家教</li>
-                                    <li>全部分类></li>
+                                    <li>全部分类</li>
                                 </ul>
                             </div>
                         </div>
@@ -407,7 +407,7 @@
 			<span class="btnleft"></span>
 			<span class="btnright"></span>
 		</div>
-    </li>
+                                </li>
                                 
                                 <li>
                                     <p class="title">奥运狂欢</p>
@@ -488,10 +488,12 @@
                     </ul>
                 </div>
             </div>
+
             <!-- 6.服装 -->
             <div class="clothes container">
                 <!-- 标题 -->
                 <h1 class="title">
+                    服装
                 </h1>
             </div>
 
@@ -525,6 +527,5 @@
             <script src="../js/slider.js"></script>
             <!-- 引入自己写的js -->
             <script src="../js/index.js"></script>
-            <!-- <script src="../js/jquery-1.11.3.min.js"></script> -->
         </body>
 </html>

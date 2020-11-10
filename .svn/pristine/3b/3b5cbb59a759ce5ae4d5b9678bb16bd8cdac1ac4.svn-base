@@ -362,12 +362,12 @@
                                     <li>小说</li>
                                     <li>文学</li>
                                     <li>青春文学</li>
-                                    <li>成功\励志</li>
+                                    <li>成功/励志</li>
                                     <li>管理</li>
                                     <li>历史</li>
                                     <li>哲学/宗教</li>
                                     <li>亲子/家教</li>
-                                    <li>全部分类></li>
+                                    <li>全部分类</li>
                                 </ul>
                             </div>
                         </div>
@@ -376,7 +376,7 @@
                             <ul>
                                 <li>
                                     <!-- 轮播容器 -->                  
-		<div class="pptbox" id="ebooks-banner">
+		<div class="pptbox" id="ebook-banner">
 			<!--轮播的内容-->
 			<ul class="innerwrapper">
 				<li>
@@ -449,8 +449,7 @@
                     <!-- 标题 -->
                     <h3 class="title">新书畅销榜</h3>
                     <ul>
-                        <li>
-                            <p class="ebooks-title">1.如果尚有余力，就去保护美好......</p>
+                        <li><p class="ebooks-title">1.如果尚有余力，就去保护美好......</p>
                             <p class="clearfix desc">
                                 <img class="fl" src="../img/index08_05.jpg" alt="">从你的全世界路界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过......                                                              
                             </p>
@@ -479,12 +478,12 @@
                             <p class="clearfix desc">
                                 <img class="fl" src="../img/index08_05.jpg" alt="">从你的全世界路界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过......                                                              
                             </p>
-                        </li>
+                        </li>     
                         <li><p class="ebooks-title">7.如果尚有余力，就去保护美好......</p>
                             <p class="clearfix desc">
                                 <img class="fl" src="../img/index08_05.jpg" alt="">从你的全世界路界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过从你的全世界路过......                                                              
                             </p>
-                        </li>                      
+                        </li>                
                     </ul>
                 </div>
             </div>
@@ -492,6 +491,7 @@
             <div class="clothes container">
                 <!-- 标题 -->
                 <h1 class="title">
+                    服装
                 </h1>
             </div>
 
@@ -525,6 +525,6 @@
             <script src="../js/slider.js"></script>
             <!-- 引入自己写的js -->
             <script src="../js/index.js"></script>
-            <!-- <script src="../js/jquery-1.11.3.min.js"></script> -->
+            <!-- <script src="../js/jquery-1.11.0.js"></script> -->
         </body>
 </html>
