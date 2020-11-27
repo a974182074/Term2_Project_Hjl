@@ -42,10 +42,10 @@
 				left:0;
 				top:25px;
 				background-color: black;
-				background-image:url(../img/nav.png);
+				background-image:url(../images/nav.png);
 				background-position: -10px 4px;
 				cursor: pointer;
-				z-index: 100;
+				z-index:77;
 			}
 			
 			.btnright{
@@ -55,10 +55,10 @@
 				right:0;
 				top:25px;
 				background-color: black;
-				background-image:url(../img/nav.png);
+				background-image:url(../images/nav.png);
 				background-position: -54px 4px;
 				cursor: pointer;
-				z-index: 100;
+				z-index:77;
 				
 			}
 			

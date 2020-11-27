@@ -210,7 +210,7 @@
                 <!-- 右侧banner -->
                 <div class="banner fr">
                     <!-- 轮播容器 -->                  
-		<div class="pptbox" id="banner">
+		<div class="pptbox" id="bannerInner">
 			<!--轮播的内容-->
 			<ul class="innerwrapper">
 				<li>
@@ -331,7 +331,7 @@
             </div>
 
             <!--------------------------- 5.电子书 --------------------------->
-            <div class="ebooks container clearfix">
+            <div class="floorBox ebooks container clearfix">
                 <!-- 左侧盒子 -->
                 <div class="left-box fl">
                     <!-- 顶部 -->
@@ -342,8 +342,8 @@
                         </h1>
                         <!-- 导航 -->
                         <ul class="fr">
-                            <li>最新上架</li>
-                            <li class="active">独家畅销</li>
+                            <li class="active">最新上架</li>
+                            <li >独家畅销</li>
                             <li>电子书</li>
                         </ul>
                     </div>
@@ -377,7 +377,7 @@
                                 <li>
                                     <!-- 轮播容器 -->                  
 		<div class="pptbox" id="ebooks-banner">
-			<!--轮播的内容-->
+			<!--轮播的内容--> 
 			<ul class="innerwrapper">
 				<li>
 					<a href="#"><img src="../img/banner1.jpg" /></a>
@@ -490,7 +490,7 @@
             </div>
 
             <!--------------------------- 6.服装 --------------------------->
-            <div class="clothes container clearfix">
+            <div class="floorBox clothes container clearfix">
                <!-- 上部盒子 -->
                <div class="top-box">
                    <!-- 顶部 -->
@@ -501,8 +501,8 @@
                        </h1>
                         <!-- 导航 -->
                        <ul class="fr">
-                           <li>女装内衣</li>
-                           <li class="active">热销男装</li>
+                           <li class="activ">女装内衣</li>
+                           <li>热销男装</li>
                            <li>精品鞋靴</li>
                        </ul>
                    </div>
@@ -635,7 +635,7 @@
                </div>
     
             <!--------------------------- 7.运动户外 --------------------------->
-            <div class="sport container clearfix">
+            <div class="floorBox sport container clearfix">
                 <!-- 上部盒子 -->
                <div class="top-box">
                 <!-- 顶部 -->
@@ -646,9 +646,9 @@
                     </h1>
                      <!-- 导航 -->
                     <ul class="fr">
-                        <li>女装内衣</li>
+                        <li class="activ">女装内衣</li>
                         <li>热销男装</li>
-                        <li class="active">精品鞋靴</li>
+                        <li>精品鞋靴</li>
                     </ul>
                 </div>
                 <!-- 中间部分 -->
@@ -781,7 +781,7 @@
             </div>
 
             <!--------------------------- 8.童装 --------------------------->
-            <div class="children-clothes container clearfix">
+            <div class="floorBox children-clothes container clearfix">
                 <!-- 上部盒子 -->
                <div class="top-box">
                 <!-- 顶部 -->
@@ -792,8 +792,8 @@
                     </h1>
                      <!-- 导航 -->
                     <ul class="fr">
-                        <li>儿童服装</li>
-                        <li class="active">婴儿装</li>
+                        <li class="activ">儿童服装</li>
+                        <li>婴儿装</li>
                         <li>小潮步鞋</li>
                     </ul>
                 </div>
@@ -927,7 +927,7 @@
             </div>
 
             <!--------------------------- 9.家居日用--------------------------->
-            <div class="daily container">
+            <div class="floorBox daily container">
                 <!-- 顶部 -->
                 <div class="sup">
                     <!-- 标题 -->
@@ -1187,10 +1187,50 @@
                 </div>               
             </div>
 
-            <!-- 返回顶部 -->
-            <!-- <div class="backToTop">
+           <!-- 返回顶部 -->
+           <div class="backToTop">
                 <img src="../img/gototop_05.jpg" alt="">
-            </div> -->
+            </div>
+             <!--二维码-->
+            <div class="qr-code">
+                <p><img src="../img/two_30.jpg" alt=""></p>
+                <p class="ticket"><img src="../img/two_35.jpg" alt=""></p>
+                <div><img src="../img/two_34.jpg" alt=""></div>
+                <p><img src="../img/two_40.jpg" alt=""></p>
+            </div>
+
+            <!--顶部搜索框-->
+            <div class="top-search-box">
+                <div class="search-box">
+                   <input class="search" placeholder="创意文具" type="text">
+                </div>
+                
+            </div>
+
+            <!--楼层滚动-->
+                <ul class="floor">
+                    <li>
+                        <img src="../img/indexleft_05.png" alt="">
+                        图书
+                    </li>
+                    <li>
+                        <img src="../img/indexleft_08.png" alt="">
+                        服装
+                    </li>
+                    <li>
+                        <img src="../img/indexleft_11.png" alt="">
+                        运动
+                    </li>
+                    <li>
+                        <img src="../img/indexleft_14.png" alt="">
+                        童装
+                    </li>
+                    <li>
+                        <img src="../img/indexleft_17.png" alt="">
+                        家居
+                    </li>
+                </ul>
+
             <!--引入jquery -->
             <script src="../js/jquery-1.11.0.js"></script>
             <!-- 引入轮播插件 -->
@@ -1198,7 +1238,7 @@
             <!-- 引入自己写的js -->
             <script src="../js/index.js"></script>
             <!-- 引入返回顶部的js -->
-            <script src="../js/gotoTop.js"></script>
+            <script src="../js/gototop.js"></script>
             <script>
                 $(function(){
                     //调用返回顶部函数
