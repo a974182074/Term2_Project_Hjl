@@ -15,9 +15,6 @@
         <body>
             <!---------------------------1.顶部 --------------------------->
             <div class="topbar">
-                <div class="label">
-                    <p><a href="../code/index.html">返回首页</a></p>
-                </div>
                 <div class="container clearfix">
                     <p class="fl"><a href="#">www.legou.com</a></p>
                     <p class="fr"><span>欢迎光临<a href="#">乐购</a></span>，<span>请<a href="login.html" class="login">登录</a>\<a href="#">注册</a></span></p>
@@ -62,7 +59,8 @@
                      </div>
             </div>
 
-            <!--------------------------- 独家提供 --------------------------->
+            <div>
+            <!-- 独家提供 -->
             <div class="ez container">
                 <div class="ez-title clearfix">
                 <h1 class="fl"><span>独</span>家提供</h1>
@@ -100,114 +98,114 @@
                         </li>
                         <li>
                         <div class="ez-list">
-                            <p>1 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>2 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>3 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>4 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>5 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>6 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>7 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>8 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>9 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>10 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>11 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>12 <img src="../img/2.1.1.jpg" alt=""></p>
+                                <p>1 <img src="../img/2.1.1.jpg" alt=""></p>
+                                <p>2 <img src="../img/2.1.1.jpg" alt=""></p>
+                                <p>3 <img src="../img/2.1.1.jpg" alt=""></p>
+                                <p>4 <img src="../img/2.1.1.jpg" alt=""></p>
+                                <p>5 <img src="../img/2.1.1.jpg" alt=""></p>
+                                <p>6 <img src="../img/2.1.1.jpg" alt=""></p>
+                                <p>7 <img src="../img/2.1.1.jpg" alt=""></p>
+                                <p>8 <img src="../img/2.1.1.jpg" alt=""></p>
+                                <p>9 <img src="../img/2.1.1.jpg" alt=""></p>
+                                <p>10 <img src="../img/2.1.1.jpg" alt=""></p>
+                                <p>11 <img src="../img/2.1.1.jpg" alt=""></p>
+                                <p>12 <img src="../img/2.1.1.jpg" alt=""></p>
                         </div>
                         </li>
                         <li>
                         <div class="ez-list">
-                            <p>1 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>2 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>3 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>4 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>5 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>6 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>7 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>8 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>9 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>10 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>11 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>12 <img src="../img/2.1.1.jpg" alt=""></p>
+                                    <p>1 <img src="../img/2.1.1.jpg" alt=""></p>
+                                    <p>2 <img src="../img/2.1.1.jpg" alt=""></p>
+                                    <p>3 <img src="../img/2.1.1.jpg" alt=""></p>
+                                    <p>4 <img src="../img/2.1.1.jpg" alt=""></p>
+                                    <p>5 <img src="../img/2.1.1.jpg" alt=""></p>
+                                    <p>6 <img src="../img/2.1.1.jpg" alt=""></p>
+                                    <p>7 <img src="../img/2.1.1.jpg" alt=""></p>
+                                    <p>8 <img src="../img/2.1.1.jpg" alt=""></p>
+                                    <p>9 <img src="../img/2.1.1.jpg" alt=""></p>
+                                    <p>10 <img src="../img/2.1.1.jpg" alt=""></p>
+                                    <p>11 <img src="../img/2.1.1.jpg" alt=""></p>
+                                    <p>12 <img src="../img/2.1.1.jpg" alt=""></p>
                         </div>
                         </li>
                         <li>
                         <div class="ez-list">
-                            <p>1 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>2 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>3 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>4 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>5 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>6 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>7 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>8 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>9 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>10 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>11 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>12 <img src="../img/2.1.1.jpg" alt=""></p>
+                                        <p>1 <img src="../img/2.1.1.jpg" alt=""></p>
+                                        <p>2 <img src="../img/2.1.1.jpg" alt=""></p>
+                                        <p>3 <img src="../img/2.1.1.jpg" alt=""></p>
+                                        <p>4 <img src="../img/2.1.1.jpg" alt=""></p>
+                                        <p>5 <img src="../img/2.1.1.jpg" alt=""></p>
+                                        <p>6 <img src="../img/2.1.1.jpg" alt=""></p>
+                                        <p>7 <img src="../img/2.1.1.jpg" alt=""></p>
+                                        <p>8 <img src="../img/2.1.1.jpg" alt=""></p>
+                                        <p>9 <img src="../img/2.1.1.jpg" alt=""></p>
+                                        <p>10 <img src="../img/2.1.1.jpg" alt=""></p>
+                                        <p>11 <img src="../img/2.1.1.jpg" alt=""></p>
+                                        <p>12 <img src="../img/2.1.1.jpg" alt=""></p>
                         </div>
                         </li>
                         <li>
                         <div class="ez-list">
-                            <p>1 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>2 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>3 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>4 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>5 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>6 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>7 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>8 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>9 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>10 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>11 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>12 <img src="../img/2.1.1.jpg" alt=""></p>
+                                            <p>1 <img src="../img/2.1.1.jpg" alt=""></p>
+                                            <p>2 <img src="../img/2.1.1.jpg" alt=""></p>
+                                            <p>3 <img src="../img/2.1.1.jpg" alt=""></p>
+                                            <p>4 <img src="../img/2.1.1.jpg" alt=""></p>
+                                            <p>5 <img src="../img/2.1.1.jpg" alt=""></p>
+                                            <p>6 <img src="../img/2.1.1.jpg" alt=""></p>
+                                            <p>7 <img src="../img/2.1.1.jpg" alt=""></p>
+                                            <p>8 <img src="../img/2.1.1.jpg" alt=""></p>
+                                            <p>9 <img src="../img/2.1.1.jpg" alt=""></p>
+                                            <p>10 <img src="../img/2.1.1.jpg" alt=""></p>
+                                            <p>11 <img src="../img/2.1.1.jpg" alt=""></p>
+                                            <p>12 <img src="../img/2.1.1.jpg" alt=""></p>
                         </div>
                         </li>
                         <li>
                         <div class="ez-list">
-                            <p>1 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>2 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>3 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>4 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>5 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>6 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>7 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>8 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>9 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>10 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>11 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>12 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                <p>1 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                <p>2 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                <p>3 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                <p>4 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                <p>5 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                <p>6 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                <p>7 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                <p>8 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                <p>9 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                <p>10 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                <p>11 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                <p>12 <img src="../img/2.1.1.jpg" alt=""></p>
                         </div>
                         </li>
                         <li>
                         <div class="ez-list">
-                            <p>1 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>2 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>3 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>4 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>5 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>6 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>7 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>8 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>9 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>10 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>11 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>12 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                    <p>1 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                    <p>2 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                    <p>3 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                    <p>4 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                    <p>5 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                    <p>6 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                    <p>7 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                    <p>8 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                    <p>9 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                    <p>10 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                    <p>11 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                    <p>12 <img src="../img/2.1.1.jpg" alt=""></p>
                         </div>
                         </li>
                         <li>
                         <div class="ez-list">
-                            <p>1 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>2 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>3 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>4 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>5 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>6 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>7 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>8 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>9 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>10 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>11 <img src="../img/2.1.1.jpg" alt=""></p>
-                            <p>12 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                        <p>1 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                        <p>2 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                        <p>3 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                        <p>4 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                        <p>5 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                        <p>6 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                        <p>7 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                        <p>8 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                        <p>9 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                        <p>10 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                        <p>11 <img src="../img/2.1.1.jpg" alt=""></p>
+                                                        <p>12 <img src="../img/2.1.1.jpg" alt=""></p>
                         </div>
                         </li>
                     </ul>
@@ -540,23 +538,11 @@
                 </div>
             </div>
         </div>
+            <!-- 猜你喜欢 -->
+            <div class="guess-you-like">
 
-            <!--------------------------- 猜你喜欢 --------------------------->
-            <div class="guess-you-like container">
-                <div class="guess-you-like-title">
-                    <h1 class="fl">猜你喜欢</h1>
-                    <p class="change fr">换一批</p>
-                </div>
-                <div class="guess-you-like-content out-box">
-                    <ul class="inner-box">
-                        <li><img src="../img/banner1.jpg" alt=""></li>
-                        <li><img src="../img/banner2.jpg" alt=""></li>
-                        <li><img src="../img/banner3.jpg" alt=""></li>
-                        <li><img src="../img/banner1.jpg" alt=""></li>
-                    </ul>
-                </div>
             </div>
-
+            </div>
             <!--------------------------- 尾部 --------------------------->
             <div class="tail container clearfix">
                 <!-- 顶部 -->
@@ -600,7 +586,7 @@
                                 <p>购物流程</p>
                                 <p>发票制度</p>
                                 <p>账户管理</p>
-                                <p>会员优惠</p>>
+                                <p>会员优惠</p>
                             </li>
                             <li>
                                 <p>退换货</p>
@@ -634,13 +620,9 @@
                     </p>                
                 </div>               
             </div>
-
-          
             <!--引入jquery -->
             <script src="../js/jquery-1.11.0.js"></script>
-            <!-- 引入轮播插件 -->
             <script src="../js/slider.js"></script>
             <script src="../js/ez.js"></script>
-            
         </body>
 </html>

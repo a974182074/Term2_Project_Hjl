@@ -16,12 +16,9 @@
         <body>
             <!---------------------------1.顶部 --------------------------->
             <div class="topbar">
-                <div class="label">
-                    <p><a href="../code/index.html">返回首页</a></p>
-                </div>
                 <div class="container clearfix">
                     <p class="fl"><a href="#">www.legou.com</a></p>
-                    <p class="fr"><span>欢迎光临<a href="#">乐购</a></span>，<span>请<a href="login.html" class="login">登录</a>\<a href="../code/register.html">注册</a></span></p>
+                    <p class="fr"><span>欢迎光临<a href="#">乐购</a></span>，<span>请<a href="login.html" class="login">登录</a>\<a href="#">注册</a></span></p>
                 </div>
             </div>
 
@@ -31,7 +28,7 @@
                 <div class="search-shopcart-order clearfix"> 
                     <!-- 购物车&订单 -->
                     <div class="shopcart-order fr">
-                        <button><span></span><span><a href="../code/shopcart.html">购物车</a></span><span></span></button>
+                        <button><span></span><span>购物车</span><span></span></button>
                         <button>我的订单</button>
                     </div>
                     <!-- 搜索框 -->
@@ -213,7 +210,7 @@
                 <!-- 右侧banner -->
                 <div class="banner fr">
                     <!-- 轮播容器 -->                  
-		<div class="pptbox" id="banner">
+		<div class="pptbox" id="bannerInner">
 			<!--轮播的内容-->
 			<ul class="innerwrapper">
 				<li>
@@ -345,9 +342,9 @@
                         </h1>
                         <!-- 导航 -->
                         <ul class="fr">
-                            <li class="active">最新上架</li>
-                            <li >独家畅销</li>
-                            <li>电子书</li>
+                            <li>最新上架</li>
+                            <li>独家畅销</li>
+                            <li class="active">电子书</li>
                         </ul>
                     </div>
                     <!-- 内容 -->
@@ -380,7 +377,7 @@
                                 <li>
                                     <!-- 轮播容器 -->                  
 		<div class="pptbox" id="ebooks-banner">
-			<!--轮播的内容-->
+			<!--轮播的内容--> 
 			<ul class="innerwrapper">
 				<li>
 					<a href="#"><img src="../img/banner1.jpg" /></a>
@@ -566,19 +563,19 @@
 			<!--轮播的内容-->
 			<ul class="innerwrapper">
 				<li>
-					<a href="#"><img src="../img/72190020507327_1_o.jpg" /></a>
+					<a href="#"><img src="../img/banner1.jpg" /></a>
 				</li>
 				<li>
-					<a href="#"><img src="../img/139430026166665_y.jpg" /></a>
+					<a href="#"><img src="../img/banner2.jpg" /></a>
 				</li>
 				<li>
-					<a href="#"><img src="../img/162350015511487_y.jpg" /></a>
+					<a href="#"><img src="../img/banner3.jpg" /></a>
 				</li>
 				<li>
-					<a href="#"><img src="../img/72190020507327_1_o.jpg" /></a>
+					<a href="#"><img src="../img/banner4.jpg" /></a>
 				</li>
 				<li>
-					<a href="#"><img src="../img/162350015511487_y.jpg" /></a>
+					<a href="#"><img src="../img/banner5.jpg" /></a>
 				</li>
 			</ul>
 			<!--数字控制器-->
@@ -711,19 +708,19 @@
          <!--轮播的内容-->
          <ul class="innerwrapper">
              <li>
-                 <a href="#"><img src="../img/160729-3709pc-B.jpg" /></a>
+                 <a href="#"><img src="../img/banner1.jpg" /></a>
              </li>
              <li>
-                 <a href="#"><img src="../img/72190020507327_1_o.jpg" /></a>
+                 <a href="#"><img src="../img/banner2.jpg" /></a>
              </li>
              <li>
-                 <a href="#"><img src="../img/72190020507327_1_o.jpg" /></a>
+                 <a href="#"><img src="../img/banner3.jpg" /></a>
              </li>
              <li>
-                 <a href="#"><img src="../img/91540017771809_1_o.jpg" /></a>
+                 <a href="#"><img src="../img/banner4.jpg" /></a>
              </li>
              <li>
-                 <a href="#"><img src="../img/121440017773720_1_o.jpg" /></a>
+                 <a href="#"><img src="../img/banner5.jpg" /></a>
              </li>
          </ul>
          <!--数字控制器-->
@@ -795,8 +792,8 @@
                     </h1>
                      <!-- 导航 -->
                     <ul class="fr">
-                        <li class="activ">儿童服装</li>
-                        <li>婴儿装</li>
+                        <li>儿童服装</li>
+                        <li class="activ">婴儿装</li>
                         <li>小潮步鞋</li>
                     </ul>
                 </div>
@@ -857,16 +854,16 @@
          <!--轮播的内容-->
          <ul class="innerwrapper">
              <li>
-                 <a href="#"><img src="../img/children-4.jpg" /></a>
+                 <a href="#"><img src="../img/banner1.jpg" /></a>
              </li>
              <li>
-                 <a href="#"><img src="../img/a_ban_383-340.jpg" /></a>
+                 <a href="#"><img src="../img/banner2.jpg" /></a>
              </li>
              <li>
-                 <a href="#"><img src="../img/lunbo.jpg" /></a>
+                 <a href="#"><img src="../img/banner3.jpg" /></a>
              </li>
              <li>
-                 <a href="#"><img src="../img/187720017020448_1_o.jpg" /></a>
+                 <a href="#"><img src="../img/banner4.jpg" /></a>
              </li>
              <li>
                  <a href="#"><img src="../img/banner5.jpg" /></a>
@@ -1155,7 +1152,7 @@
                                 <p>购物流程</p>
                                 <p>发票制度</p>
                                 <p>账户管理</p>
-                                <p>会员优惠</p>>
+                                <p>会员优惠</p>
                             </li>
                             <li>
                                 <p>退换货</p>
@@ -1190,48 +1187,50 @@
                 </div>               
             </div>
 
-            <!--------------------------- 二维码 --------------------------->
+           <!-- 返回顶部 -->
+           <div class="backToTop">
+                <img src="../img/gototop_05.jpg" alt="">
+            </div>
+             <!--二维码-->
             <div class="qr-code">
                 <p><img src="../img/two_30.jpg" alt=""></p>
-                <p  class="ticket"><img src="../img/two_35.jpg" alt=""></p>
+                <p class="ticket"><img src="../img/two_35.jpg" alt=""></p>
                 <div><img src="../img/two_34.jpg" alt=""></div>
                 <p><img src="../img/two_40.jpg" alt=""></p>
             </div>
 
-            <!--------------------------- 顶部搜索框 --------------------------->
+            <!--顶部搜索框-->
             <div class="top-search-box">
                 <div class="search-box">
-                    <input class="search" placeholder="创意文具" type="text">              
-                </div> 
+                   <input class="search" placeholder="创意文具" type="text">
+                </div>
+                
             </div>
 
-             <!--------------------------- 楼层滚动 --------------------------->
-                 <ul class="floor">
-                     <li>
-                         <img src="../img/indexleft_05.png" alt="">
-                         图书
-                     </li>
-                     <li>
-                         <img src="../img/indexleft_08.png" alt="">
-                         服装
-                     </li>
-                     <li>
-                        <img src="../img/indexleft_11.png"alt="">
+            <!--楼层滚动-->
+                <ul class="floor">
+                    <li>
+                        <img src="../img/indexleft_05.png" alt="">
+                        图书
+                    </li>
+                    <li>
+                        <img src="../img/indexleft_08.png" alt="">
+                        服装
+                    </li>
+                    <li>
+                        <img src="../img/indexleft_11.png" alt="">
                         运动
-                     </li>
-                     <li>
-                        <img src="../img/indexleft_14.png"alt="">
+                    </li>
+                    <li>
+                        <img src="../img/indexleft_14.png" alt="">
                         童装
-                     </li>
-                     <li>
-                        <img src="../img/indexleft_17.png"alt="">
+                    </li>
+                    <li>
+                        <img src="../img/indexleft_17.png" alt="">
                         家居
-                     </li>
-                 </ul>
-            <!-- 返回顶部 -->
-            <!-- <div class="backToTop">
-                <img src="../img/gototop_05.jpg" alt="">
-            </div> -->
+                    </li>
+                </ul>
+
             <!--引入jquery -->
             <script src="../js/jquery-1.11.0.js"></script>
             <!-- 引入轮播插件 -->
@@ -1239,12 +1238,12 @@
             <!-- 引入自己写的js -->
             <script src="../js/index.js"></script>
             <!-- 引入返回顶部的js -->
-            <script src="../js/gotoTop.js"></script>
+            <script src="../js/gototop.js"></script>
             <script>
                 $(function(){
                     //调用返回顶部函数
                     gotoTop({
-                        imgUrl:'../img/gototop_05.png'
+                        imgUrl:'../img/gototop_05.jpg'
                     })
                 })
             </script>
