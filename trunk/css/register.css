@@ -28,25 +28,55 @@
   color: #333;
 }
 .register{
-  width: 500px;
-  height: 700px;
-  margin-top: 30px;
-  background-color: pink;
-}
-.register p{
-  margin-bottom: 30px;
-}
-.register p input{
-  width: 200px;
-  height: 20px;
-}
-.register h1{
-  font-size: 24px;
+	width: 500px;
+	height: 500px;
+	margin-top: 50px;
 }
 .error{
-  color: red;
+	text-indent: 10px;
+	color: red;
 }
-.error:first-child{
-  border: 1px solid red;
-  color: #333;
+.register h1{
+	width: 499px;
+	height: 30px;
+	font-size: 18px;
+	color: #6c6c6c;
+	border: 1px solid blue;
+	background-color: #ecf5ff;
+}
+.register #registerForm{
+	width: 499px;
+	height: 400px;
+	border: 1px solid blue;
+}
+.register form .active{
+	width: 400px;
+	height: 50px;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+.register form .active p{
+	display: inline;
+	width: 100px;
+	font-size: 15px;
+}
+.register form .active input{
+	width: 300px;
+	height: 25px;
+	border-radius: 10px;
+	background-color: #fff3ee;
+	border: 1px solid red;
+	outline: none;
+	padding-left: 10px;
+}
+.register form .act input{
+	text-align: center;
+	margin-left: 150px;
+	width: 200px;
+	height: 25px;
+	background-color: #FF6700;
+	color: #fff;
+	border-radius: 10px;
+	border: 0;
+	outline: none;
 }

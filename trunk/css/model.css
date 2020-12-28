@@ -14,11 +14,10 @@
     
 }
 .model .content{
-    width: 500px;
-    height: 250px;
-    background-color: red;
-    font-size: 30px;
-    color: #fff;
+    width: 400px;
+    height: 200px;
+    background-color: #fff;
+    font-size: 16px;
 
     position: fixed;
     top: 0;
@@ -37,4 +36,42 @@
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%); */
+}
+.model .content #close{
+	position: fixed;
+    right: 560px;
+	top: 245px;
+	color: #fff;
+	font-size: 24px;
+}
+.model .content .top-list{
+	width: 400px;
+	height: 20px;
+	background-color: #ccc;
+	text-indent: 10px;
+	color: #353535;
+}
+.model .content .bottom-list p{
+	width: 400px;
+	height: 50px;
+	text-align: center;
+	margin-top: 50px;
+}
+.model .content .bottom-list img{
+	width: 50px;
+	height: 50px;
+}
+.model .content .bottom-list button{
+	width: 50px;
+	height: 30px;
+	border: #fff;
+	margin-top: 20px;
+}
+.model .content .bottom-list .determine{
+	background-color: #FF6700;
+	margin-left: 50px;
+}
+.model .content .bottom-list .cancel{
+	background-color: #ccc;
+	margin-left: 120px;
 }

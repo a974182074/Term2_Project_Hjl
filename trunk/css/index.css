@@ -5,8 +5,9 @@
     background:#101010;
 }
 .topbar .label{
-    width: 100px;
+    width: 50px;
     float: left;
+	background-color: #fff;
 }
 /* 顶部里层容器 */
 .topbar .container{

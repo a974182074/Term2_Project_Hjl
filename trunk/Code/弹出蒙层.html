@@ -29,8 +29,8 @@
                 <div class="search-shopcart-order clearfix"> 
                     <!-- 购物车&订单 -->
                     <div class="shopcart-order fr">
-                        <button><span></span><span>购物车</span><span></span></button>
-                        <button>我的订单</button>
+                        <button><span></span><span><a href="../code/shopcart.html">购物车</a></span><span></span></button>
+                        <button><a href="弹出蒙层.html">我的订单</a></button>
                     </div>
                     <!-- 搜索框 -->
                     <div class="search-input fr">
@@ -147,7 +147,17 @@
           
              <!-- 蒙层 -->
              <div class="model">
-                 <div class="content"><span id="close">x</span></div>
+                 <div class="content"><span id="close">x</span>
+				 <div class="top-list">
+				 	<p>确认付款</p>
+				 </div>
+				 <div class="bottom-list">
+				 	<p><img src="../img/gth.png" > 是否确认提交订单</p>
+					<button class="cancel">取消</button>
+					<button class="determine">确定</button>
+					
+				 </div>
+				 </div>
              </div>
             <!--引入jquery -->
             <script src="../js/jquery-1.11.0.js"></script>
@@ -161,6 +171,12 @@
                     $('#close').click(function(){
                         $('.model').fadeOut();
                     })
+					$('.cancel').click(function(){
+					    $('.model').fadeOut();
+					})
+					$('.determine').click(function(){
+					    $('.model').fadeOut();
+					})
                 })
             </script>
         </body>
